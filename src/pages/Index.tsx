@@ -15,10 +15,10 @@ const Index = () => {
 
   const services = [
     {
-      title: 'Визит Деда Мороза',
+      title: 'Визит Деда Мороза и Снегурочки',
       description: 'Классический визит с подарками и новогодним поздравлением',
       price: '3000 ₽',
-      duration: '30 мин',
+      duration: '15 мин',
       icon: 'Gift'
     },
     {
